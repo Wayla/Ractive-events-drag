@@ -1,0 +1,17 @@
+{
+        "name": "ractive-events-drag",
+        "repo": "Wayla/Ractive-events-drag",
+        "description": "Ractive-events-drag",
+        "version": "0.1.1",
+        "keywords": [],
+        "dependencies": {
+            "EightMedia/hammer.js": "*",
+            "brett-shwom/Ractive": "0.3.8pre-2013-11-03-legacy"
+        },
+        "development": {},
+        "license": "MIT",
+        "main": "Ractive-events-drag.js",
+        "scripts": [
+                "Ractive-events-drag.js"
+        ]
+}
