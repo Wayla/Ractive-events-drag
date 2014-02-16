@@ -2,7 +2,7 @@
         "name": "ractive-events-drag",
         "repo": "Wayla/Ractive-events-drag",
         "description": "Ractive-events-drag",
-        "version": "0.1.1",
+        "version": "0.1.2",
         "keywords": [],
         "dependencies": {
             "EightMedia/hammer.js": "*",
